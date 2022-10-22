@@ -1,0 +1,9 @@
+This is a collection of NeoPixel code for my Zagreus cosplay.
+
+Of particular interest is MegaTwoButtonClean.ino, which was used for the Stygian Blade, and may be of use for other LED designers.
+
+The button position allows for a three way switch: an all-dark position, an all solid color position, and an animation position.
+
+The animation includes a chase on the inside of the blade and a pulse on the outside, using the milis() function to keep them aligned.
+
+Base code from tweaking4all.com and the always superlative Adafruit_Bill.
